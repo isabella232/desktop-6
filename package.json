@@ -38,6 +38,6 @@
     }
   },
   "dependencies": {
-    "electron-updater": "^4.3.5"
+    "electron-updater": "^4.6.5"
   }
 }
